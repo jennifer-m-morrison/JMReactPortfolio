@@ -1,0 +1,15 @@
+Footer {
+    background-color: #EAF3EE;
+    font-size: 0.9rem
+}
+
+Footer a  {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+Footer a:hover {
+    color: #000;
+    text-decoration: underline;
+}
