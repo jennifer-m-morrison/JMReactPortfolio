@@ -1,11 +1,13 @@
 import React from 'react';
-import Hero from './Hero';
+import About from './About.js';
+import Projects from './Projects.js';
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function Main() {
     return (
         <main> 
-            <Hero />
+            <About />
+            <Projects />
         </main>
     );
 }

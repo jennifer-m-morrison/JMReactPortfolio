@@ -1,6 +1,7 @@
 Footer {
     background-color: #EAF3EE;
-    font-size: 0.9rem
+    font-size: 0.9rem;
+    border-top: 8px solid #9e4449;
 }
 
 Footer a  {

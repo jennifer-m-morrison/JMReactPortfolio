@@ -1,0 +1,14 @@
+.projects-wrapper {
+    background-color: #EAF3EE;
+    width: 100%;
+
+}
+
+.card-container {
+    border: 2px solid #254441;
+}
+
+.card-body {
+    background-color: #254441;
+    color: #EAF3EE;
+}
