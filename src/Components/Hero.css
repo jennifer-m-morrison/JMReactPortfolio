@@ -1,0 +1,46 @@
+.hero {
+    position: relative;
+    height: calc(100vh - 110px);
+    background-size: cover;
+    background-position: center;
+    color: #000;
+}
+
+.hero-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    text-align: center;
+}
+
+.hero h1 {
+    font-family: "Dancing Script", cursive;
+    font-size: 3rem;
+}
+
+@media screen and (min-width: 700px) {
+.hero-content {
+    position: absolute;
+    top: auto;
+    left: auto;
+    bottom: 10%;
+    right: 5%;
+    transform: none;
+    width: 70%;
+}
+
+.hero h1 {
+    font-size: 4rem;
+}
+}   
+
+@media screen and (min-width: 1000px) {
+    .hero-content {
+        bottom: 20%;
+    }
+
+    .hero h1 {
+        font-size: 4.5rem;
+    }   
+}

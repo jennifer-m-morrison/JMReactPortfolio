@@ -16,7 +16,7 @@ function Navigation() {
                         className="d-inline-block align-center me-3"
                         alt="Jennifer Morrison Designs logo"
                     />
-                Jennifer Morrison Designs</Navbar.Brand>
+                    <span className="d-none d-md-inline-block">Jennifer Morrison Designs</span></Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">

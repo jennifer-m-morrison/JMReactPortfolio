@@ -5,7 +5,6 @@ function Header() {
     return (
         <header>
             <Navigation />
-            <h1>Jennifer Morrison Designs</h1>
         </header>
     );
     }
