@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JMReactPortfolio/static/css/main.63ea5475.css",
+    "main.js": "/JMReactPortfolio/static/js/main.45918de9.js",
+    "static/media/LILogo200.png": "/JMReactPortfolio/static/media/LILogo200.6c0fedb564653bf35b20.png",
+    "index.html": "/JMReactPortfolio/index.html",
+    "main.63ea5475.css.map": "/JMReactPortfolio/static/css/main.63ea5475.css.map",
+    "main.45918de9.js.map": "/JMReactPortfolio/static/js/main.45918de9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ea5475.css",
+    "static/js/main.45918de9.js"
+  ]
+}
