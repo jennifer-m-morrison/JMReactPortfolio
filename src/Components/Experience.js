@@ -31,11 +31,11 @@ function Experience() {
                 <hr className="w-75 mx-auto" />
                 <h2 className="text-center py-4">Education</h2>
                 <Row className="justify-content-center align-items-evenly g-5">
-                    <Col xs={10} md={5} lg={4} className="experience-text d-flex flex-column">
+                    <Col xs={11} md={5} lg={4} className="experience-text d-flex flex-column">
                         <p><a href="https://www.waketech.edu/">Wake Tech Community College</a><br />Raleigh, NC</p>
                         <p>Pursuing A.A.S. Web Development</p>
                     </Col>
-                    <Col xs={10} md={5} lg={4} className="experience-text d-flex flex-column">
+                    <Col xs={11} md={5} lg={4} className="experience-text d-flex flex-column">
                         <p><a href="https://www.wm.edu"
                             target="_blank" rel="noopener noreferrer">College of William and Mary</a> <br />Williamsburg, VA</p>
                         <p>B.A. Economics</p>

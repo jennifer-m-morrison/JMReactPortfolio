@@ -24,7 +24,7 @@ function Navigation() {
                         <Nav.Link href="#about">About Me</Nav.Link>
                         <Nav.Link href="#projects">Projects</Nav.Link>
                         <Nav.Link href="#skills">Skills</Nav.Link>
-                        <Nav.Link href="#link">Experience</Nav.Link>
+                        <Nav.Link href="#experience">Experience</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
