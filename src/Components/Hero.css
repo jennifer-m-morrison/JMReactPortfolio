@@ -20,6 +20,13 @@
     font-size: 3rem;
 }
 
+.btn-hero {
+    background-color: #254441;
+    color: #fff;
+    
+
+}
+
 @media screen and (min-width: 700px) {
 .hero-content {
     position: absolute;

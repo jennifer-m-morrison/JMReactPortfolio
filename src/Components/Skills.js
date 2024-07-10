@@ -12,12 +12,13 @@ function Skills() {
                 <Row className="d-flex justify-content-center align-content-center g-5">    
                     <Col xs={10} md={10} lg={5}>
                         <p className="lh-lg fs-5">Through my classes at Wake Tech Community College and self-directed learning, I have gained technical knowledge in the following languages, frameworks, and libraries:</p>
-                        <ul>
+                        <ul className="skills-list">
                             <li>HTML5</li>
                             <li>CSS3</li>
                             <li>JavaScript</li>
                             <li>React</li>
                             <li>Bootstrap</li>
+                            <li>Figma</li>
                         </ul>
                     </Col>
                     <Col xs={9} md={7} lg={4} >

@@ -1,8 +1,9 @@
 import React from 'react';
 import About from './About.js';
 import Projects from './Projects.js';
-import "bootstrap/dist/css/bootstrap.min.css";
 import Skills from './Skills.js';
+import Experience from './Experience.js';
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function Main() {
     return (
@@ -10,6 +11,7 @@ function Main() {
             <About />
             <Projects />
             <Skills />
+            <Experience />
         </main>
     );
 }
