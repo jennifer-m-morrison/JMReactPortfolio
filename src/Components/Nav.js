@@ -8,12 +8,13 @@ import './Nav.css';
 
 function Navigation() {
     return (
-        <Navbar expand="lg" className="navbar navbar-light">
+        <Navbar expand="lg" className="navbar navbar-light" >
             <Container>
-                <Navbar.Brand href="#">
+                <Navbar.Brand href="#nav">
                     <img
                         src={jmlogo}
                         className="d-inline-block align-center me-3"
+                        id="nav"
                         alt="Jennifer Morrison Designs logo"
                     />
                     <span className="brand-title d-none d-md-inline-block">Jennifer Morrison Designs</span></Navbar.Brand>
@@ -22,7 +23,7 @@ function Navigation() {
                     <Nav className="ms-auto">
                         <Nav.Link href="#about">About Me</Nav.Link>
                         <Nav.Link href="#projects">Projects</Nav.Link>
-                        <Nav.Link href="#link">Skills</Nav.Link>
+                        <Nav.Link href="#skills">Skills</Nav.Link>
                         <Nav.Link href="#link">Experience</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
