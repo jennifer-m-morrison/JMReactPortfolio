@@ -12,3 +12,19 @@
     background-color: #254441;
     color: #EAF3EE;
 }
+
+.cardCol {
+    display: flex;
+        justify-content: center;
+        align-items: stretch; 
+}
+
+.card-body {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 2fr 1fr;
+}
+
+.card-body a {
+    text-align: center;
+}
