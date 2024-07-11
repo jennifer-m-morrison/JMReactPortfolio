@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JMReactPortfolio/static/css/main.a3235edf.css",
-    "main.js": "/JMReactPortfolio/static/js/main.ba950b81.js",
+    "main.css": "/JMReactPortfolio/static/css/main.6a7d0c98.css",
+    "main.js": "/JMReactPortfolio/static/js/main.821f7787.js",
     "static/media/oasis.png": "/JMReactPortfolio/static/media/oasis.4567b8f846523bb67016.png",
     "static/media/tyrrell.png": "/JMReactPortfolio/static/media/tyrrell.1db284a55901905f7306.png",
     "static/media/jmprofile.jpg": "/JMReactPortfolio/static/media/jmprofile.b6dd39ea33492ac07db8.jpg",
@@ -9,11 +9,11 @@
     "static/media/skills.png": "/JMReactPortfolio/static/media/skills.d55b01a4a946f7add551.png",
     "static/media/LILogo200.png": "/JMReactPortfolio/static/media/LILogo200.6c0fedb564653bf35b20.png",
     "index.html": "/JMReactPortfolio/index.html",
-    "main.a3235edf.css.map": "/JMReactPortfolio/static/css/main.a3235edf.css.map",
-    "main.ba950b81.js.map": "/JMReactPortfolio/static/js/main.ba950b81.js.map"
+    "main.6a7d0c98.css.map": "/JMReactPortfolio/static/css/main.6a7d0c98.css.map",
+    "main.821f7787.js.map": "/JMReactPortfolio/static/js/main.821f7787.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3235edf.css",
-    "static/js/main.ba950b81.js"
+    "static/css/main.6a7d0c98.css",
+    "static/js/main.821f7787.js"
   ]
 }
