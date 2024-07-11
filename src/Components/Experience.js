@@ -48,18 +48,3 @@ function Experience() {
 }
 
 export default Experience;
-
-// function Experience() {
-//     return (
-//         <div class="experience-wrapper" id="experience">
-//             <Container fluid className="experience-container px-0 py-5 mx-auto">
-//                 <h1 className="text-center mb-5">Professional Experience</h1>
-//                 <Row className="justify-content-center align-items-center g-4">
-//                     
-//                 </Row>
-//                 
-//             </Container>
-//         </div>
-//     );
-// }
-
