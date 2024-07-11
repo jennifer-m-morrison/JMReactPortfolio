@@ -12,7 +12,7 @@ function Hero() {
             <div className='hero-content d-flex justify-content-center align-items-center'>
                 <div>
                     <h1 className='mb-4'>Jennifer Morrison Designs</h1>
-                    <h3 className='mb-5'>Crafting Digital Experiences</h3>
+                    <h3 className='mb-5 fs-2'>Crafting Digital Experiences</h3>
                     <a className='btn btn-hero btn-outline-dark btn-lg' href='mailto:jmitchell.morrison@gmail.com' role='button'>
                         Let's Connect
                     </a>

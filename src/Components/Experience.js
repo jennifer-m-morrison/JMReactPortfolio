@@ -32,7 +32,7 @@ function Experience() {
                 <h2 className="text-center py-4">Education</h2>
                 <Row className="justify-content-center align-items-evenly g-5">
                     <Col xs={11} md={5} lg={4} className="experience-text d-flex flex-column">
-                        <p><a href="https://www.waketech.edu/">Wake Tech Community College</a><br />Raleigh, NC</p>
+                        <p><a href="https://www.waketech.edu/" target="_blank" rel="noopener noreferrer">Wake Tech Community College</a><br />Raleigh, NC</p>
                         <p>Pursuing A.A.S. Web Development</p>
                     </Col>
                     <Col xs={11} md={5} lg={4} className="experience-text d-flex flex-column">
