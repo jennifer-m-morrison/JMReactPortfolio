@@ -1,0 +1,32 @@
+.contact-wrapper {
+    background-color: #254441;
+    padding: 2rem 0;
+    width: 100%;
+}
+
+.contact-container {
+    background-color: rgba(255, 255, 255, 0.7);
+    max-width: 90%;
+    border-radius: 15px;
+}
+
+.contact-title {
+    font-family: Dancing Script, cursive;
+    color: #9e4449;
+    font-size: 2.7rem;
+    font-weight: 800;
+    text-align: center;
+}
+
+.contact-links a {
+    color: #254441;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.contact-links a:hover {
+    color: #254441;
+    text-decoration: underline;
+    offset-distance: 1rem;
+}

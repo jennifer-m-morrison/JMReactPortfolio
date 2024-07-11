@@ -1,6 +1,18 @@
-.experience-wrapper {
+.experience-container {
     background-color: #EAF3EE;
-    padding: 2rem 0;
+}
+
+.experience-text {
+    text-align: center;
+}
+
+h3 {
+    color: #254441;
+}
+
+.education-wrapper {
+    background-color: #254441;
+    padding: 1rem 0;
     width: 100%;
 }
 
@@ -14,13 +26,4 @@
 .experience-container a:hover {
     color: #254441;
     text-decoration: underline;
-    offset-distance: 1rem;
-}
-
-.experience-text {
-    text-align: center;
-}
-
-h3 {
-    color: #254441;
 }

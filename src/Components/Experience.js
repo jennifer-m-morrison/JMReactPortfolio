@@ -6,7 +6,7 @@ import "./Experience.css";
 function Experience() {
     return (
         <div class="experience-wrapper" id="experience">
-            <Container className="experience-container px-0 py-5 mx-auto">
+            <Container fluid className="experience-container px-0 py-5 mx-auto">
                 <h1 className="text-center mb-5">Professional Experience</h1>
                 <Row className="justify-content-center align-items-center g-4">
                     <Col xs={10} md={11} lg={5} >

@@ -1,16 +1,18 @@
 Footer {
     background-color: #EAF3EE;
     font-size: 0.9rem;
+    border-bottom: 8px solid #9e4449;
     border-top: 8px solid #9e4449;
 }
 
-Footer a  {
-    color: #000;
+Footer a {
+    color: #254441;
     text-decoration: none;
     font-weight: bold;
+    font-style: italic;
 }
 
 Footer a:hover {
-    color: #000;
+    color: #254441;
     text-decoration: underline;
 }
