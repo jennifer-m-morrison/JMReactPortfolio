@@ -16,6 +16,7 @@
 
 .hero h1 {
     font-family: "Dancing Script", cursive;
+    font-weight: 800;
     color: #9e4449;
     font-size: 3rem;
 }
@@ -23,8 +24,6 @@
 .btn-hero {
     background-color: #254441;
     color: #fff;
-    
-
 }
 
 @media screen and (min-width: 700px) {
