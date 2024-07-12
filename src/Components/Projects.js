@@ -14,7 +14,7 @@ function Projects() {
             wrapperId="projects"
             containerClassName="projects-container"
             title="My Projects">
-            <Col xs={10} md={6} lg={4} className="cardCol">
+            <Col xs={10} md={6} lg={3} className="cardCol">
                 <Card className="card-container">
                     <Card.Img src={tyrellPic} />
                     <Card.Body className="card-body">
@@ -28,7 +28,7 @@ function Projects() {
                     </Card.Body>
                 </Card>
             </Col>
-            <Col xs={10} md={6} lg={4} className="cardCol">
+            <Col xs={10} md={6} lg={3} className="cardCol">
                 <Card className="card-container">
                     <Card.Img src={oasisPic} />
                     <Card.Body className="card-body">
@@ -41,7 +41,7 @@ function Projects() {
                     </Card.Body>
                 </Card>
             </Col>
-            <Col xs={10} md={6} lg={4} className="cardCol">
+            <Col xs={10} md={6} lg={3} className="cardCol">
                 <Card className="card-container">
                     <Card.Img src={reactCalculator} />
                     <Card.Body className="card-body">

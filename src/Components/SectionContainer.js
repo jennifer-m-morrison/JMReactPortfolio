@@ -15,7 +15,6 @@ const SectionContainer = ({
             <Row className="d-flex justify-content-center align-content-center g-5">
             {children}
             </Row>
-            
         </Container>
         </div>
     );

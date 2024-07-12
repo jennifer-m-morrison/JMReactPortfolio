@@ -15,7 +15,7 @@ function Contact() {
             wrapperId="connect"
             containerClassName="contact-container"
             title="Let's Connect!">
-            <Col xs={6} md={5} lg={3} >
+            <Col xs={6} md={4} lg={3} >
                 <img src={jmlogo} className="img-fluid" alt="Jennifer Morrison logo" />
             </Col>
             <Col xs={10} md={10} lg={5} className="contact-links d-flex flex-column align-items-center justify-content-center">
