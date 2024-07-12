@@ -32,12 +32,12 @@ function Experience() {
             <hr className="w-75 mx-auto" />
             <h2 className="text-center mb-0 mt-3">Education</h2>
                 <Col xs={11} md={5} lg={4} className="experience-text d-flex flex-column fs-5">
-                    <p><a href="https://www.waketech.edu/" target="_blank" rel="noopener noreferrer" class="fs-4">Wake Tech Community College</a><br />Raleigh, NC</p>
+                    <p><a href="https://www.waketech.edu/" target="_blank" rel="noopener noreferrer" className="fs-4">Wake Tech Community College</a><br />Raleigh, NC</p>
                     <p>Pursuing A.A.S. Web Development</p>
                 </Col>
                 <Col xs={11} md={5} lg={4} className="experience-text d-flex flex-column fs-5">
                     <p><a href="https://www.wm.edu"
-                        target="_blank" rel="noopener noreferrer" class="fs-4">College of William and Mary</a> <br />Williamsburg, VA</p>
+                        target="_blank" rel="noopener noreferrer" className="fs-4">College of William and Mary</a> <br />Williamsburg, VA</p>
                     <p>B.A. Economics</p>
                 </Col>
 
